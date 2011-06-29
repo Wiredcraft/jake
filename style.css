@@ -1,6 +1,6 @@
 body {
   color:#666;
-  background:#c0c8d0 url(images/background.png) 100% 100% no-repeat fixed;
+  background-color:#c0c8d0;
   }
 
   body.views-mode-trash {
